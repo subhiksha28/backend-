@@ -1,25 +1,4 @@
-# shoppingsite
-Watch it on youtube now...
-https://www.youtube.com/watch?v=GiWJQOin5dk
+![Screenshot (52)](https://user-images.githubusercontent.com/103196084/235288198-e6d3f97a-b932-4bbf-9dea-9185d1a8f4a5.png)
 
-Some screenshots from the project
-
-![Screenshot (142)](https://user-images.githubusercontent.com/68517660/138282796-0e46154f-b75f-438c-93a6-e9a56c0681d8.png)
-
-
-
-
-
-![Screenshot (143)](https://user-images.githubusercontent.com/68517660/138282991-029ba283-88d5-43e9-85b1-c151b832f8a7.png)
-
-
-
-
-
-![127 0 0 1_5501_index html(iPhone 6_7_8) (1)](https://user-images.githubusercontent.com/68517660/138283072-c5615461-d397-4a16-ad1f-8538dd0104cd.png)
-
-
-
-
-
-![127 0 0 1_5501_index html(iPhone 6_7_8) (2)](https://user-images.githubusercontent.com/68517660/138283097-b0d813e7-28af-4e54-bfca-f10c03effa8c.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/103196084/235288232-03886199-18fd-45fb-8ad6-e023a60554ab.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/103196084/235288241-40a43afa-7741-4b6e-bcf3-3a890b838e1f.png)
